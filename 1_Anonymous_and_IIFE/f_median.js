@@ -10,7 +10,7 @@ let median = function(a,b){
     else{
         m= arr[(l-1)/2];
     }
-    console.log(m);
+    console.log(m);            //Output--->   5
 };
 
 let a = [5,6,9,1];
@@ -29,5 +29,5 @@ median(a,b);
     else{
         m= arr[(l-1)/2];
     }
-    console.log(m);
+    console.log(m);           //Output--->   5
 })([5,6,9,1], [7,4,8,3,2]);
